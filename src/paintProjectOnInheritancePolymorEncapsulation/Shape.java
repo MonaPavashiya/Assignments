@@ -1,4 +1,4 @@
-package paintProject;
+package paintProjectOnInheritancePolymorEncapsulation;
 
 public abstract class Shape 
 {

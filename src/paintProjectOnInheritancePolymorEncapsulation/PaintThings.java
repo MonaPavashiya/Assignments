@@ -1,4 +1,4 @@
-package paintProject;
+package paintProjectOnInheritancePolymorEncapsulation;
 
 public class PaintThings {
 	public static void main(String[] args) {

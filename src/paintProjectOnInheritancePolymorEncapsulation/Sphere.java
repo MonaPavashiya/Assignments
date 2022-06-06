@@ -1,4 +1,4 @@
-package paintProject;
+package paintProjectOnInheritancePolymorEncapsulation;
 
 class Sphere extends Shape 
 {

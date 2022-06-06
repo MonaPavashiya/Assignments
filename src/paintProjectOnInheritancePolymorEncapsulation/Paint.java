@@ -1,4 +1,4 @@
-package paintProject;
+package paintProjectOnInheritancePolymorEncapsulation;
 
 import java.text.DecimalFormat;
 

@@ -1,4 +1,4 @@
-package paintProject;
+package paintProjectOnInheritancePolymorEncapsulation;
 
 class Rectangle  extends  Shape
 {

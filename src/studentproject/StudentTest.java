@@ -1,4 +1,4 @@
-package myownpractice;
+package studentproject;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -118,9 +118,8 @@ public class StudentTest
 		for(int m=listOfStudent.length-1; m>=0; m--)
 		{
 			Student student = listOfStudent[m];
-			System.out.print("("+"Rank " + j +")"+ student.name);
-			System.out.println(" With " + "Score: " + student.totalScore);
-			System.out.println();
+			System.out.println("("+"Rank " + j +")"+ student.name + " With Score: " + student.totalScore + "\n");
+			//System.out.println();
 			j++;
 		}
 	}

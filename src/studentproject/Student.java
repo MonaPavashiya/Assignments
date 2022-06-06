@@ -1,4 +1,4 @@
-package myownpractice;
+package studentproject;
 
 public class Student 
 {
@@ -11,7 +11,7 @@ public class Student
 
 	public Student(String name, int mathScore, int engScore, int sciScore) 
 	{
-		super();
+	
 		this.name = name;
 		this.mathScore = mathScore;
 		this.engScore = engScore;
